@@ -1,0 +1,25 @@
+{
+  "name": "PitchBridge",
+  "short_name": "PitchBridge",
+  "description": "Connect business ideas with people who fund them.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1A2E28",
+  "background_color": "#0F1A16",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
